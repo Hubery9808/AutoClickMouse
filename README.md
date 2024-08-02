@@ -3,7 +3,7 @@
 1、首先，确保你已经安装了 pynput 库
 >pip install pynput
 
-2、运行脚本 mouse.Listener.py 获取需要鼠标点击位置的坐标；
+2、运行脚本 mouse_listener.py 获取需要鼠标点击位置的坐标；
 
 3、打开 auto_click_mouse.py 进行编辑
 > 设定需要鼠标点击位置的坐标点 (x, y)
